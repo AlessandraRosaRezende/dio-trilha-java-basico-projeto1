@@ -1,1 +1,1 @@
-# dio-trilha-java-basico-projeto1
+# Repositório para organizar os projetos do Bootcamp DIO - Java
